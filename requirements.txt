@@ -24,9 +24,9 @@ matplotlib
 # Statistical data visualization.
 seaborn
 # Quantum computing.
-qiskit[visualization]
+qiskit[visualization]==2.3.1
 # Quantum simulators.
-qiskit-aer
+qiskit-aer==0.17.2
 # Machine learning.
 scikit-learn
 # Symbolic mathematics.
