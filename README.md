@@ -12,7 +12,7 @@ This submission is intended for an informed computing professional, such as a pr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ianmcloughlin/emerging-technologies.git
+   git clone https://github.com/fionntmcc/emerging-technologies-assignment.git
    cd emerging-technologies-assignment
    ```
 
@@ -57,4 +57,4 @@ emerging-technologies-assignment/
 - All code is reproducible; clone and run as described above.
 - Each problem is clearly documented with explanations of quantum concepts and implementation details.
 
-This repository is submitted as part of the Emerging Technologies Summer 25/26 assessment.
+This repository is submitted as the Emerging Technologies Summer 25/26 assessment.
