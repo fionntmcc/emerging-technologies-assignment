@@ -48,7 +48,6 @@ emerging-technologies-assignment/
 ├── requirements.txt            # Python package dependencies
 ├── README.md                   # This file
 ├── .gitignore                  # Git ignore file
-├── data/                       # Test data files
 ```
 
 ## Notes
