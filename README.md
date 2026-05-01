@@ -12,7 +12,7 @@ This submission is intended for an informed computing professional, such as a pr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/fionntmcc/emerging-technologies-assignment.git
+   git clone https://github.com/fionntmcc/emerging-technologies-assignment/
    cd emerging-technologies-assignment
    ```
 
